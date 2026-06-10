@@ -116,7 +116,7 @@ python main_biomarker.py   # Biomarker statistical analysis
 The complete 21-step pipeline from raw `.txt` EEG files to clinical diagnostic topomap. **Orange = interactive human review checkpoints; all other steps run automatically.**
 
 <div align="center">
-<img src="docs/workflow_e2e.png" alt="End-to-End Workflow — 21 steps from raw EEG to diagnostic topomap"/>
+<img src="docs/workflow_e2e.png" width="820" style="max-width:100%" alt="End-to-End Workflow — 21 steps from raw EEG to diagnostic topomap"/>
 </div>
 
 ---
@@ -221,7 +221,7 @@ The interpolated, ICA-cleaned signal is ready for source reconstruction. At this
 ## wPLI Connectivity — Concepts, Formulas & Visualisation
 
 <div align="center">
-<img src="docs/connection_explainer.png" alt="wPLI, Self-Connection and Cross-Connection — visual explainer"/>
+<img src="docs/connection_explainer.png" width="820" style="max-width:100%" alt="wPLI, Self-Connection and Cross-Connection — visual explainer"/>
 </div>
 
 ### wPLI Formula
@@ -271,7 +271,7 @@ Total candidate features per comparison:  972
 ## Biomarker Analysis — Statistical Pipeline
 
 <div align="center">
-<img src="docs/stats_pipeline.png" alt="Statistical Biomarker Mining Pipeline"/>
+<img src="docs/stats_pipeline.png" width="820" style="max-width:100%" alt="Statistical Biomarker Mining Pipeline"/>
 </div>
 
 ### Step-by-Step Design Rationale
@@ -324,7 +324,7 @@ p_raw < 0.10  AND  |r| >= 0.20  AND  AUC >= 0.60
 Node Strength topomap showing wPLI connectivity distribution across the scalp. **Red = high node strength (dense connectivity); blue = low.** Circle size scales with node strength. This visualisation directly supports clinical observation — for example, elevated frontal Theta in epilepsy reflects network hypersynchrony.
 
 <div align="center">
-<img src="docs/topomap_sample.png" alt="Node Strength Topomap — Sample Output (Epilepsy, rest1, 3 bands)"/>
+<img src="docs/topomap_sample.png" width="820" style="max-width:100%" alt="Node Strength Topomap — Sample Output (Epilepsy, rest1, 3 bands)"/>
 </div>
 
 **Clinical interpretation guide:**
