@@ -271,7 +271,7 @@ Total candidate features per comparison:  972
 ## Biomarker Analysis — Statistical Pipeline
 
 <div align="center">
-<img src="docs/stats_pipeline.png" width="820" style="max-width:100%" alt="Statistical Biomarker Mining Pipeline"/>
+<img src="docs/stats_pipeline.png" width="800" style="max-width:100%" alt="Statistical Biomarker Mining Pipeline"/>
 </div>
 
 ### Step-by-Step Design Rationale
