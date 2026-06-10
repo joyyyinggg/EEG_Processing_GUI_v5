@@ -116,7 +116,7 @@ python main_biomarker.py   # Biomarker statistical analysis
 The complete 21-step pipeline from raw `.txt` EEG files to clinical diagnostic topomap. **Orange = interactive human review checkpoints; all other steps run automatically.**
 
 <div align="center">
-<img src="docs/workflow_e2e.png" width="820" style="max-width:100%" alt="End-to-End Workflow — 21 steps from raw EEG to diagnostic topomap"/>
+<img src="docs/workflow_e2e.png" width="800" style="max-width:100%" alt="End-to-End Workflow — 21 steps from raw EEG to diagnostic topomap"/>
 </div>
 
 ---
