@@ -221,7 +221,7 @@ The interpolated, ICA-cleaned signal is ready for source reconstruction. At this
 ## wPLI Connectivity — Concepts, Formulas & Visualisation
 
 <div align="center">
-<img src="docs/connection_explainer.png" width="790" style="max-width:100%" alt="wPLI, Self-Connection and Cross-Connection — visual explainer"/>
+<img src="docs/connection_explainer.png" width="850" style="max-width:100%" alt="wPLI, Self-Connection and Cross-Connection — visual explainer"/>
 </div>
 
 ### wPLI Formula
